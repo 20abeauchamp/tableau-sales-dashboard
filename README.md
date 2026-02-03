@@ -25,5 +25,6 @@ The dashboard is designed to support data-driven decision-making by highlighting
 <img width="1011" height="800" alt="tableau dashboard business analytics" src="https://github.com/user-attachments/assets/c344fe2e-a4c0-4ed2-a373-06e15f36f645" />
 
 
+
 ## Skills Demonstrated
 Dashboard development, KPI analysis, visual storytelling, business insight generation
